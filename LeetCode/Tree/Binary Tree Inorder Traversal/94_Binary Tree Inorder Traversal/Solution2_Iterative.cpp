@@ -1,5 +1,5 @@
 // Author:ChungYen
-// Runing time:4ms
+// Runing time:3ms
 class Solution {
 public:
     vector<int> inorderTraversal(TreeNode* root) {
